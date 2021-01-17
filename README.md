@@ -1,2 +1,8 @@
 # BDD-study
-Contém conteúdos de estudo sobre BDD(Behavior Driven Development)
+Código desenvolvido para aprendizado de BDD(Behavior Driven Development)
+
+#Ferramentas/tecnologias utilizadas
+C#
+.NET Core 3.1
+SpecFlow + Runner
+Visual Studio 2019
